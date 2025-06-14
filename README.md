@@ -1,5 +1,3 @@
-![Empowering Black Women in Tech & Business](./banner.png)
-
 # 👋🏽 Hi, I'm Vanna Walker
 
 Welcome to my GitHub! I'm a multidisciplinary professional passionate about bridging technology, business strategy, and human-centered solutions.
