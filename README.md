@@ -21,14 +21,13 @@ Welcome to my GitHub! I'm a multidisciplinary professional passionate about brid
 ## 🎓 Education
 
 - 👩🏽‍🎓 **MSIT (in progress)** 
-- 👩🏽‍🎓 **MBA (in progress)** 
-- 👩🏽‍🎓 **Bachelor of Science in Business Administration – Project Management**  
-- 👩🏽‍🎓 **Professional Certificate in Cloud Computing**
-- 👩🏽‍🎓 **Professional Certificate in Web Development**
+- 👩🏽‍🎓 **MBA (in progress)**
+- 👩🏽‍🎓 **Bachelor of Science in Business Administration – Project Management**
+- 👩🏽‍🎓 **Professional Degree in Entrepreneurship – Women’s Entrepreneurship, Cornell University** 
 - 👩🏽‍🎓 **Associate of Science in Computer Science**
-- 👩🏽‍🎓 **Associate of Science in Information Technology** 
-- 👩🏽‍🎓 **Professional Degree – Women’s Entrepreneurship, Cornell University**  
-
+- 👩🏽‍🎓 **Associate of Science in Information Technology**
+- 👩🏽‍🎓 **Professional Diploma in Cloud Computing**
+- 👩🏽‍🎓 **Professional Diploma in Web Development**
 ---
 
 ## 🏢 Founder & CEO — Walker and Associate, LLC
