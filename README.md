@@ -1,4 +1,4 @@
-![Empowering Banner](banner.png)
+![Empowering Banner](assets/banner.png)
 
 # 👋🏽 Hi, I'm Vanna Walker
 
