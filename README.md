@@ -77,4 +77,8 @@ I am the Founder and CEO of **Walker and Associate, LLC**, a tech-forward consul
 
 ---
 
+![Empowering Black Women in Tech & Business](./banner.png)
+
+---
+
 > 💡 *“Technology should solve real problems and empower real people.”*
