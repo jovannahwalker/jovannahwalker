@@ -16,6 +16,38 @@ Welcome to my GitHub! I'm a multidisciplinary professional passionate about brid
 
 ---
 
+## 🎓 Education
+
+- 👩🏽‍🎓 **MSIT (in progress)** 
+- 👩🏽‍🎓 **MBA** 
+- 👩🏽‍🎓 **Bachelor of Science in Business Administration – Project Management**  
+- 👩🏽‍🎓 **Bachelor of Science in Computer Science – Software Engineering**  
+- 👩🏽‍🎓 **Associate of Science in Computer Science**
+- 👩🏽‍🎓 **Associate of Science in Information Technology** 
+- 👩🏽‍🎓 **Professional Degree – Women’s Entrepreneurship, Cornell University**  
+
+---
+
+## 🏢 Founder & Consultant — Walker and Associate, LLC
+
+I am the Founder and CEO of **Walker and Associate, LLC**, a tech-forward consulting firm specializing in:
+
+- Business & IT consulting  
+- QA/UAT testing services
+- Project Mangaement
+- Business Analysis/Business Systems Analysis
+- Recruiting
+- Finance Analysis
+- Strategic Analysis
+- Business Intelligence
+- Business Process Analysis  
+- Digital transformation strategy  
+- Training & mentorship for aspiring tech professionals
+
+🌐 [https://walkerandassociatellc.com](https://walkerandassociatellc.com)
+
+---
+
 ## 📂 Featured Repository
 
 - [`qa-uat-scripts-library`](https://github.com/jovannahwalker/qa-uat-scripts-library)  
@@ -25,8 +57,9 @@ Welcome to my GitHub! I'm a multidisciplinary professional passionate about brid
 
 ## 💬 Connect with Me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/jovannahwalker)
-- ✉️ Contact: walkerandassociatellc@consultant.com
+- 🌐 [LinkedIn](http://linkedin.com/in/jovannah) 
+- 📝 [My Website]((https://walkerandassociatellc.wordpress.com))  
+- ✉️ Email: walkerandassociatellc@consultant.com
 
 ---
 
