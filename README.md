@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a multidisciplinary professional passionate about brid
 ## 🎓 Education
 
 - 👩🏽‍🎓 **MSIT (in progress)** 
-- 👩🏽‍🎓 **MBA (in progress)**
+- 👩🏽‍🎓 **MBA**
 - 👩🏽‍🎓 **Bachelor of Science in Business Administration – Project Management**
 - 👩🏽‍🎓 **Professional Degree in Entrepreneurship – Women’s Entrepreneurship, Cornell University** 
 - 👩🏽‍🎓 **Associate of Science in Computer Science**
