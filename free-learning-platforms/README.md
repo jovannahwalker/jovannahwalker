@@ -9,7 +9,7 @@ I'm using this as a personal learning tracker and a reference for others looking
 
 Codecademy offers interactive coding lessons in web development, data science, and more. Some content is free, and premium paths are paid.
 
-## Best Free Tracks:
+Best Free Tracks:
 - Learn HTML
 - Learn JavaScript
 - Learn Python 3
@@ -24,7 +24,7 @@ Codecademy offers interactive coding lessons in web development, data science, a
 
 W3Schools is a free tutorial site with simple, practical code examples for HTML, CSS, JavaScript, Python, SQL, and more.
 
-## Strengths
+Strengths
 - Great for syntax lookups
 - Fast to navigate
 - Easy quizzes
@@ -37,7 +37,7 @@ W3Schools is a free tutorial site with simple, practical code examples for HTML,
 
 While LinkedIn Learning is subscription-based, many public libraries offer free access with your library card!
 
-## Great Courses for Tech & Business:
+Great Courses for Tech & Business:
 - Learning Business Analysis
 - Agile Project Management
 - SQL Essential Training
