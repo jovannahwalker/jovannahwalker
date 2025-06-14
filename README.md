@@ -69,4 +69,12 @@ I am the Founder and CEO of **Walker and Associate, LLC**, a tech-forward consul
 
 ---
 
+## 🧰 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
 > 💡 *“Technology should solve real problems and empower real people.”*
