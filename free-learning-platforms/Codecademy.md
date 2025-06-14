@@ -10,3 +10,16 @@ Codecademy offers interactive coding lessons in web development, data science, a
 - Web Development Foundations
 
 👉 [Visit Codecademy](https://www.codecademy.com)
+
+---
+
+# Codecademy Course List
+
+| Course Title           | Status     | Notes |
+|------------------------|------------|-------|
+| Learn HTML             | ✅ Complete | Helpful for semantic tags |
+| Learn CSS              | ⏳ In Progress | Will pair with HTML projects |
+| Learn JavaScript       | ✅ Complete | Good syntax practice |
+| Learn Python 3         | 🔜 Planned | |
+
+---
