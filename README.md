@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a multidisciplinary professional passionate about brid
 
 ---
 
-## 🏢 Founder & Consultant — Walker and Associate, LLC
+## 🏢 Founder & CEO — Walker and Associate, LLC
 
 I am the Founder and CEO of **Walker and Associate, LLC**, a tech-forward consulting firm specializing in:
 
