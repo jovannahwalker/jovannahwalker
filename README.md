@@ -44,7 +44,7 @@ I am the Founder and CEO of **Walker and Associate, LLC**, a tech-forward consul
 - Digital transformation strategy  
 - Training & mentorship for aspiring tech professionals
 
-🌐 [https://walkerandassociatellc.com](https://walkerandassociatellc.com)
+🌐 [Walker & Associate LLC](https://walkerandassociatellc.wordpress.com)
 
 ---
 
