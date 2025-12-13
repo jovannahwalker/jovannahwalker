@@ -18,25 +18,6 @@ Welcome to my GitHub! I'm a multidisciplinary professional passionate about brid
 
 ---
 
-## 🏢 Founder & CEO — Walker and Associate, LLC
-
-I am the Founder and CEO of **Walker and Associate, LLC**, a tech-forward consulting firm specializing in:
-
-- Business & IT consulting  
-- QA/UAT testing services
-- Project Mangaement
-- Business Analysis/Business Systems Analysis
-- Recruiting
-- Finance Analysis
-- Strategic Analysis
-- Business Intelligence
-- Business Process Analysis  
-- Digital transformation strategy  
-- Training & mentorship for aspiring tech professionals
-
-
----
-
 ## 📂 Featured Repository
 
 - [`qa-uat-scripts-library`](https://github.com/jovannahwalker/qa-uat-scripts-library)  
@@ -46,8 +27,7 @@ I am the Founder and CEO of **Walker and Associate, LLC**, a tech-forward consul
 
 ## 💬 Connect with Me
 
-- 🌐 [LinkedIn](http://linkedin.com/in/jovannah) 
-- ✉️ Email: walkerandassociatellc@consultant.com
+- 🌐 [LinkedIn](http://linkedin.com/in/jovannah)
 
 ---
 
